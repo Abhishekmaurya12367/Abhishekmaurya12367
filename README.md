@@ -1,12 +1,12 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="./assets/banner.jpg" alt="Abhishek Maurya Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0, 242, 254, 0.2);" />
+  <img src="https://raw.githubusercontent.com/Abhishekmaurya12367/Abhishekmaurya12367/main/assets/banner.jpg" alt="Abhishek Maurya Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0, 242, 254, 0.2);" />
 
   <br/><br/>
 
   <!-- Avatar & Intro -->
-  <img src="./assets/avatar.jpg" alt="Abhishek Maurya Avatar" width="140" height="140" style="border-radius: 50%; border: 3px solid #00f2fe; box-shadow: 0 0 20px rgba(0, 242, 254, 0.5);" />
+  <img src="https://raw.githubusercontent.com/Abhishekmaurya12367/Abhishekmaurya12367/main/assets/avatar.jpg" alt="Abhishek Maurya Avatar" width="140" height="140" style="border-radius: 50%; border: 3px solid #00f2fe; box-shadow: 0 0 20px rgba(0, 242, 254, 0.5);" />
 
   <h1>⚡ Abhishek Maurya ⚡</h1>
 
